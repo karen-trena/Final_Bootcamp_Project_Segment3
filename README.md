@@ -61,10 +61,9 @@ The proof of the existing datasets in PG Admin is shown in the following screens
 
 
 ## Dashboard
-I will use Tableau to create the dashboard. I will try to make the cluster Persona elegible (interactive element) for the analyst and once selecting the Persona, the data from the different variables will be displayed so they know their consumption habits to be able to create the correct email campaigns for them.
+I used Tableau to create the dashboard. I made the cluster Persona elegible (interactive element) for the analyst and once selecting the Persona, the data from the different variables will be displayed so they know their consumption habits to be able to create the correct email campaigns for them. You can also see the information from all personas at the same time. The filters from the whole dashboard are attached to the table with the Personas. Please consult this link to see the [dashboard](https://public.tableau.com/views/ProyectBootcamp/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
-This is the blueprint for the dashboard
-![Storyboard](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/Picture5.jpg)
+
 
 ## Notes
 * For more information regarding Segment1 deliverables, please consult [here](https://github.com/karen-trena/Final_Bootcamp_Project_Segment1.git)
