@@ -65,3 +65,7 @@ I will use Tableau to create the dashboard. I will try to make the cluster Perso
 
 This is the blueprint for the dashboard
 ![Storyboard](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2/blob/main/Picture5.jpg)
+
+## Notes
+* For more information regarding Segment1 deliverables, please consult [here](https://github.com/karen-trena/Final_Bootcamp_Project_Segment1.git)
+* For more information regarding Segment2 deliverables, please consult [here](https://github.com/karen-trena/Final_Bootcamp_Project_Segment2)
